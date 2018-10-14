@@ -10,6 +10,7 @@ import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
 //This is a LoginTest Comment
+//This is a second LoginTest Comment
 public class LoginTest extends BaseTest {
 	
 	//This is a testLogin method
